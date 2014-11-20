@@ -7,3 +7,7 @@ img.img-custom {
   width: 400px;
   height: 289px;
 }
+
+.navbar, .intro-text .intro-heading, .intro-text .intro-lead-in{
+	text-shadow: 0 0 0.2em black, 0 0 0.2em black, 0 0 0.2em black !important;
+}
